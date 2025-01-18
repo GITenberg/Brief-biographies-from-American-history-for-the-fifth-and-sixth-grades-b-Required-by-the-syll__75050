@@ -1,0 +1,44 @@
+_repo: Brief-biographies-from-American-history-for-the-fifth-and-sixth-grades-b-Required-by-the-syll__75050
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grosch, Edward Oscar
+    gutenberg_agent_id: '57796'
+    url: http://www.gutenberg.org/2009/agents/57796
+creator:
+  authors:
+  - agent_name: Turpin, Edna Henry Lee
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '6842'
+    url: http://www.gutenberg.org/2009/agents/6842
+    wikipedia: https://en.wikipedia.org/wiki/Edna_Henry_Lee_Turpin
+  - agent_name: Edwards, Edward
+    alias: Edwards, Edward, Captain R. N.
+    birthdate: 1728
+    deathdate: 1815
+    gutenberg_agent_id: '25570'
+    url: http://www.gutenberg.org/2009/agents/25570
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Edwards_(Royal_Navy_officer)
+description: ''
+gutenberg_issued: '2025-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75050'
+language: en
+pgterms:marc904: https://archive.org/details/briefbiographies00turp
+pgterms:marc905: 20220718181052turpin
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Donald Cummings, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bCharles E. Merrill Co., $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Brief biographies from American history, for the fifth and sixth grades :
+  $b Required by the syllabus for elementary schools of New York State Education Department'
+url: http://www.gutenberg.org/ebooks/75050
